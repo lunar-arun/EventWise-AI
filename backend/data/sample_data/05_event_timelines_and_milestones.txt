@@ -1,0 +1,17 @@
+# Event Timelines and Milestone Scheduling Rules
+Source Label: Curated EventWise Timeline Playbook
+Location Scope: General India
+Event Type: general
+
+## 1. Relative Deadline Calculation Principles
+Event preparation tasks should be scheduled backward from the confirmed event date:
+- Three weeks before (-21 days): Finalize total budget, reserve emergency funds, and build the master guest list.
+- Two weeks before (-14 days): Shortlist and inspect venue and catering options; confirm dietary preferences.
+- One week before (-7 days): Send invitations, collect RSVPs, and lock decoration and cake specifications.
+- Three days before (-3 days): Verify vendor delivery slots, backup power, and return gift supplies.
+- One day before (-1 day): Complete final packing, seating chart printout, and vendor call-backs.
+- Event day (0 days): Execute the event-day run sheet and track actual expenses.
+
+## 2. Handling Short-Notice Events & Scale Adjustments
+- Short-Notice Compression: When an event is created less than 21 days before the event date, earlier milestones must be compressed to the current date rather than scheduled in the past.
+- Large Guest Scale (150+ Guests): Add a dedicated milestone 10 days before the event to coordinate extra buffet lines, parking marshals, drinking water stations, and crowd flow signage.

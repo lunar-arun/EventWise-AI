@@ -1,0 +1,10 @@
+item_category,event_type,location,item_description,illustrative_unit,illustrative_cost_inr_min,illustrative_cost_inr_max,notes
+Venue,birthday,Chennai / General,Mini Party Hall (50-80 guests; 4 hours),per_session,4000,8000,Illustrative synthetic estimate; verify AC and backup charges
+Catering,birthday,Chennai / General,Pure Vegetarian Buffet Package (Welcome drink + 2 starters + mains + dessert),per_plate,140,220,Illustrative synthetic estimate for 50+ guests
+Decoration,birthday,General India,Balloon Garland Arch + Fabric Backdrop + Warm LED Lights,per_setup,2000,4500,Illustrative synthetic estimate; DIY saves ~25%
+Cake,birthday,General India,Custom Theme Celebration Cake (1.5 kg to 2.5 kg),per_cake,1500,3000,Illustrative synthetic estimate
+Venue,wedding,South India / General,Kalyana Mandapam / Banquet Lawn (200 guests; full day),per_day,75000,180000,Illustrative synthetic estimate; not a live quote
+Catering,wedding,South India / General,Traditional Wedding Sadhya / Multi-Course Buffet,per_plate,350,750,Illustrative synthetic estimate
+Decoration,wedding,South India / General,Floral Mandap + Entrance Arch + Stage Lighting,per_event,35000,90000,Illustrative synthetic estimate using seasonal local flowers
+AV_and_Sound,community,General India,Dual PA Speakers + 2 Cordless Mics + Mixer + Technician,per_day,3500,8000,Illustrative synthetic estimate for community events
+Refreshments,community,General India,Tea/Coffee + Snack Box + Filtered Water Station,per_person,60,120,Illustrative synthetic estimate

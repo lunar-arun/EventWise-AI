@@ -1,0 +1,70 @@
+
+eventwise-ai/
+├── CLAUDE.md
+├── README.md
+├── .gitignore
+├── .env.example
+│
+├── frontend/
+│   ├── CLAUDE.md
+│   ├── package.json
+│   ├── app/
+│   │   ├── layout.tsx
+│   │   ├── page.tsx
+│   │   ├── globals.css
+│   │   ├── planner/page.tsx
+│   │   ├── budget/page.tsx
+│   │   ├── chat/page.tsx
+│   │   ├── knowledge-base/page.tsx
+│   │   └── events/[id]/
+│   │       ├── page.tsx
+│   │       └── timeline/page.tsx
+│   ├── components/
+│   │   ├── layout/
+│   │   ├── dashboard/
+│   │   ├── planner/
+│   │   ├── budget/
+│   │   ├── timeline/
+│   │   ├── checklist/
+│   │   ├── chat/
+│   │   ├── knowledge/
+│   │   └── ui/
+│   ├── lib/
+│   │   ├── api.ts
+│   │   ├── validation.ts
+│   │   └── formatting.ts
+│   └── types/
+│
+└── backend/
+    ├── CLAUDE.md
+    ├── requirements.txt
+    ├── .env.example
+    ├── app/
+    │   ├── main.py
+    │   ├── config.py
+    │   ├── routes/
+    │   ├── schemas/
+    │   ├── services/
+    │   ├── rag/
+    │   │   ├── CLAUDE.md
+    │   │   ├── ingestion.py
+    │   │   ├── extraction.py
+    │   │   ├── chunking.py
+    │   │   ├── embeddings.py
+    │   │   ├── retrieval.py
+    │   │   ├── generation.py
+    │   │   └── prompts.py
+    │   ├── database/
+    │   └── prompts/
+    ├── data/
+    │   ├── documents/
+    │   └── sample_data/
+    └── tests/
+        ├── CLAUDE.md
+        ├── conftest.py
+        ├── test_budget.py
+        ├── test_timeline.py
+        ├── test_ingestion.py
+        ├── test_retrieval.py
+        ├── test_planner.py
+        └── evaluation/

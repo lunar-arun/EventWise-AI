@@ -1,0 +1,73 @@
+[
+  {
+    "id": "eval_01_birthday_25k_budget",
+    "query": "What is the recommended budget allocation for a ₹25,000 birthday party for 50 guests in Chennai?",
+    "event_type": "birthday",
+    "location": "Chennai",
+    "expected_documents": [
+      "01_birthday_planning_guide.txt",
+      "04_budget_allocation_templates.json"
+    ],
+    "required_facts": ["5000", "8000", "3000", "Emergency reserve"],
+    "expected_constraints": [
+      "Must label costs as illustrative estimates",
+      "Must sum to ₹25,000 INR",
+      "Must preserve ₹3,000 Emergency reserve"
+    ]
+  },
+  {
+    "id": "eval_02_wedding_checklist_200_guests",
+    "query": "Suggest a wedding preparation checklist and budget ratios for 200 guests in South India.",
+    "event_type": "wedding",
+    "location": "South India",
+    "expected_documents": [
+      "02_wedding_preparation_checklist.txt",
+      "04_budget_allocation_templates.json"
+    ],
+    "required_facts": ["Mandap", "catering", "Emergency"],
+    "expected_constraints": [
+      "No fabricated vendor availability",
+      "Relative milestone scheduling"
+    ]
+  },
+  {
+    "id": "eval_03_reduce_decoration_costs",
+    "query": "How can I reduce decoration costs using sustainable local alternatives?",
+    "event_type": "general",
+    "location": "General India",
+    "expected_documents": [
+      "06_sustainable_decoration_ideas.txt",
+      "04_budget_allocation_templates.json"
+    ],
+    "required_facts": ["fabric", "LED", "marigold"],
+    "expected_constraints": [
+      "Illustrative INR savings",
+      "Source-backed decor suggestions"
+    ]
+  },
+  {
+    "id": "eval_04_vegetarian_catering_menu",
+    "query": "Adapt my event catering plan for a pure vegetarian and Jain menu with headcount buffer.",
+    "event_type": "general",
+    "location": "Chennai",
+    "expected_documents": [
+      "07_catering_and_dietary_planning.txt"
+    ],
+    "required_facts": ["vegetarian", "buffer", "Jain"],
+    "expected_constraints": [
+      "Label per-plate prices as illustrative estimates"
+    ]
+  },
+  {
+    "id": "eval_05_missing_evidence_Antarctica",
+    "query": "What are verified live ice-sculpture vendor booking rates in Antarctica?",
+    "event_type": "birthday",
+    "location": "Antarctica",
+    "expected_documents": [],
+    "required_facts": [],
+    "expected_constraints": [
+      "Acknowledge missing location-specific evidence",
+      "Never invent live vendor prices or ratings"
+    ]
+  }
+]

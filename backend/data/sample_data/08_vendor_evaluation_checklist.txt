@@ -1,0 +1,22 @@
+# Vendor Evaluation & Booking Verification Checklist
+Source Label: Curated EventWise Vendor Due-Diligence Guide
+Location Scope: General India
+Event Type: general
+
+## 1. Important Disclaimer
+EventWise AI operates strictly offline/local-first and never provides live vendor availability, verified market prices, or booking confirmations. Users must independently verify every vendor quote in writing.
+
+## 2. Pre-Booking Evaluation Questions
+- Venue Checklist:
+  - What is the exact hall access window (setup time + event hours + teardown)?
+  - Is Diesel Generator (DG) power backup included in the base rental or billed per hour?
+  - Are outside decorators and caterers permitted without corkage or royalty fees?
+  - How many car and two-wheeler parking slots are available on-site?
+- Catering Checklist:
+  - Does the per-plate illustrative quote include service staff, chafing fuel, drinking water cans, and banana leaves/crockery?
+  - What is the cut-off date for increasing or reducing the guaranteed guest count?
+- Decoration & Photography Checklist:
+  - Request real photos of past setups in similar hall sizes.
+  - Specify exact flower types, lighting count, and album deliverable timelines in the written estimate.
+- Payment Milestone Rule:
+  - Never pay 100% upfront. Follow a staged structure: 25% booking advance, 50% one week before the event, and 25% upon completion on event day.

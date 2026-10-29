@@ -1,0 +1,1 @@
+"""EventWise AI backend package."""

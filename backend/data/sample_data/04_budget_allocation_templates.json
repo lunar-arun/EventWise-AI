@@ -1,0 +1,56 @@
+{
+  "document_title": "Standard Event Budget Templates and Cost Reduction Strategies (Illustrative INR)",
+  "disclaimer": "All monetary figures and percentages are synthetic illustrative estimates in integer INR, never verified vendor quotes.",
+  "templates": [
+    {
+      "title": "Illustrative ₹25,000 Birthday Budget Template",
+      "event_type": "birthday",
+      "total_budget_inr": 25000,
+      "guest_capacity_estimate": "40 to 60 guests",
+      "allocations": {
+        "Venue": 5000,
+        "Food and beverages": 8000,
+        "Decoration": 3000,
+        "Cake": 2000,
+        "Entertainment": 2000,
+        "Miscellaneous": 2000,
+        "Emergency reserve": 3000
+      }
+    },
+    {
+      "title": "Illustrative ₹75,000 Community Cultural Event Template",
+      "event_type": "community",
+      "total_budget_inr": 75000,
+      "guest_capacity_estimate": "150 to 200 attendees",
+      "allocations": {
+        "Venue and permits": 15000,
+        "Food and beverages": 24000,
+        "Stage, sound and AV": 12000,
+        "Decoration and signage": 7500,
+        "Miscellaneous and logistics": 7500,
+        "Emergency reserve": 9000
+      }
+    },
+    {
+      "title": "Illustrative ₹5,00,000 Intimate Wedding Template",
+      "event_type": "wedding",
+      "total_budget_inr": 500000,
+      "guest_capacity_estimate": "150 to 200 guests",
+      "allocations": {
+        "Venue": 120000,
+        "Food and beverages": 170000,
+        "Decoration": 70000,
+        "Photography and video": 40000,
+        "Entertainment and rituals": 25000,
+        "Miscellaneous": 25000,
+        "Emergency reserve": 50000
+      }
+    }
+  ],
+  "cost_saving_rules": [
+    "Always preserve an 8% to 12% Emergency Reserve when reallocating categories.",
+    "Reduce decoration expenses by 20% to 30% using reusable fabric backdrops, warm LED string lights, and seasonal local flowers instead of imported florals.",
+    "Choose daytime or weekday venue slots for 15% lower hall rental rates (illustrative estimate).",
+    "Use digital RSVP invitations to eliminate printing and courier expenses."
+  ]
+}
